@@ -1,0 +1,4 @@
+[![Build Status](https://travis-ci.org/MaxDmytruk/Concatenated_words.svg?branch=master)](https://travis-ci.org/MaxDmytruk/Concatenated_words)
+[![codecov](https://codecov.io/gh/MaxDmytruk/Concatenated_words/branch/master/graph/badge.svg)](https://codecov.io/gh/MaxDmytruk/Concatenated_words)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/82c63fb7bc8f45908876dfebe97106ca)](https://www.codacy.com/app/MaxDmytruk/Concatenated_words?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaxDmytruk/Concatenated_words&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/82c63fb7bc8f45908876dfebe97106ca)](https://www.codacy.com/app/MaxDmytruk/Concatenated_words?utm_source=github.com&utm_medium=referral&utm_content=MaxDmytruk/Concatenated_words&utm_campaign=Badge_Coverage)
